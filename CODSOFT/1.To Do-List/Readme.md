@@ -1,3 +1,20 @@
+SCREENSHOTS:
+
+![Screenshot (77)](https://github.com/NIGASH333/CODSOFT/assets/113447646/3e794f7f-021b-43c7-b19b-09615837ca5c)
+
+
+![Screenshot (78)](https://github.com/NIGASH333/CODSOFT/assets/113447646/ccb8cfb6-9ba0-4590-8186-d225d8754f6f)
+
+
+![Screenshot (79)](https://github.com/NIGASH333/CODSOFT/assets/113447646/213e32dc-7b89-4b11-bef2-7e7bb31f9e03)
+
+
+![Screenshot (80)](https://github.com/NIGASH333/CODSOFT/assets/113447646/bf3e18d2-ced8-437c-b5fc-e4e9f93a3e3a)
+
+
+![Screenshot (81)](https://github.com/NIGASH333/CODSOFT/assets/113447646/fcdae543-8a40-4e5c-91b4-fa2c52729d0b)
+
+
 # To-Do List Manager - NIGASH333
 
 ## Overview
