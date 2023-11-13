@@ -1,3 +1,16 @@
+Screenshots:
+![Screenshot (82)](https://github.com/NIGASH333/CODSOFT/assets/113447646/fdd7c08f-6eb1-411d-94c3-1c484cce9a02)
+
+![Screenshot (83)](https://github.com/NIGASH333/CODSOFT/assets/113447646/4cd6a9cc-033f-46df-9964-4cba5608d5c8)
+
+![Screenshot (84)](https://github.com/NIGASH333/CODSOFT/assets/113447646/118929c0-070b-411c-ad49-7d7e416df63b)
+
+![Screenshot (85)](https://github.com/NIGASH333/CODSOFT/assets/113447646/d569823b-ea27-4850-bed5-61dbdea3a525)
+
+![Screenshot (86)](https://github.com/NIGASH333/CODSOFT/assets/113447646/616f74f7-5a6b-40fe-af4d-1394b83ba8a0)
+
+![Screenshot (87)](https://github.com/NIGASH333/CODSOFT/assets/113447646/b9a5fdde-2a66-42dd-aca0-ba570c08219b)
+
 # Calculator Program
 
 This is a simple calculator program written in Python. It allows the user to perform various arithmetic operations such as addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
