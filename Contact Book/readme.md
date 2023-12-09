@@ -1,4 +1,4 @@
-Contact Management System
+CONTACT MANAGEMENT SYSTEM:
 This is a simple Contact Management System implemented using Python and the Tkinter library for the graphical user interface.
 
 Features
