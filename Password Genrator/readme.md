@@ -1,3 +1,9 @@
+![Screenshot (90)](https://github.com/NIGASH333/CODSOFT/assets/113447646/3a88a235-4da8-4011-9d88-2527e5c2da3a)
+
+![Screenshot (91)](https://github.com/NIGASH333/CODSOFT/assets/113447646/8ae9dbab-dc8f-4963-abe8-1a325981606e)
+
+![Screenshot (92)](https://github.com/NIGASH333/CODSOFT/assets/113447646/2e2b71d7-6272-441b-9b07-e9387eb7a223)
+
 Nigash Password Generator
 Introduction
 The Nigash Password Generator is a simple Python program that creates secure and unique passwords based on user-defined length preferences. It utilizes the Tkinter library to provide a user-friendly graphical interface for generating passwords.
