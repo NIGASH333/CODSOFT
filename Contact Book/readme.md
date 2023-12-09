@@ -9,47 +9,51 @@
 
 ![Screenshot (97)](https://github.com/NIGASH333/CODSOFT/assets/113447646/28a9cc7c-4a45-4099-9018-e67f0eabd072)
 
-CONTACT MANAGEMENT SYSTEM:
-This is a simple Contact Management System implemented using Python and the Tkinter library for the graphical user interface.
+
+README
+This project implements a basic contact management system using the Python tkinter library.
 
 Features
-Add Contact: Allows the user to add a new contact with a name, phone number, email, and address.
-
-View Contacts: Displays a list of all contacts with their names and phone numbers.
-
-Search Contact: Enables the user to search for a contact by name, displaying matching results.
-
-Update Contact: Permits the user to update an existing contact's information based on the name.
-
-Delete Contact: Allows the user to delete a contact based on the name.
-
+Add, view, and search contacts.
+Update contact information.
+Delete contacts.
+User-friendly GUI.
+Installation
+Install Python 3.x and tkinter:
+Bash
+pip install python3
+pip install tkinter
+Use code with caution. Learn more
+Clone this repository or download the zip file.
 Usage
-Run the Program:
-Execute the script in a Python environment to launch the Contact Management System GUI.
-
-bash
-Copy code
-python contact_manager.py
+Open a terminal in the project directory.
+Run the following command to start the application:
+Bash
+python main.py
+Use code with caution. Learn more
+Use the interface to manage your contacts.
+Functionality
 Add Contact:
-
-Enter the contact details in the provided entry fields.
-Click the "Add Contact" button to add the contact.
+Enter the contact's name, phone number, email, and address in the respective fields.
+Click the "Add Contact" button.
+A success message will be displayed if the contact is added successfully.
 View Contacts:
-
-Click the "View Contacts" button to see a list of all contacts.
+Click the "View Contacts" button.
+A list of all contacts with their names and phone numbers will be displayed in a message box.
 Search Contact:
-
-Enter the name in the provided entry field.
-Click the "Search Contact" button to find and display matching contacts.
+Enter the contact's name (or part of the name) in the name field.
+Click the "Search Contact" button.
+A list of matching contacts will be displayed in a message box.
 Update Contact:
-
-Enter the existing name and new details in the respective entry fields.
-Click the "Update Contact" button to modify the contact information.
+Enter the old name of the contact in the name field.
+Enter the updated information for the contact in the remaining fields.
+Click the "Update Contact" button.
+A success message will be displayed if the contact is updated successfully.
 Delete Contact:
-
-Enter the name of the contact to be deleted.
-Click the "Delete Contact" button to remove the contact from the list.
+Enter the name of the contact you want to delete in the name field.
+Click the "Delete Contact" button.
+A success message will be displayed if the contact is deleted successfully.
 Notes
-The contact data is stored in-memory and will be reset upon restarting the program.
-Error and success messages are displayed using Tkinter's messagebox.
-Feel free to customize and extend the code to suit your specific needs.
+This is a basic implementation and can be further extended to include features like sorting, filtering, importing/exporting contacts, etc.
+Feel free to customize the code to fit your specific needs.
+
